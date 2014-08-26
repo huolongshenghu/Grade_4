@@ -1,0 +1,233 @@
+﻿body,div,ul,li{padding:0;margin:0}
+.head 
+{
+    width: 1050px;
+    margin:0 auto;
+    border:1px solid #8EE5EE;
+}
+#menu
+{
+   width:900px;
+   height:40px;
+   background-color:Purple;
+   margin:0 auto;
+   float:left;
+}
+#menu_left
+{
+    float:left;
+    width:140px;
+    height:600px;
+}
+#menu ul
+{
+    width:700px;
+    height:40px;
+    float:left;
+}
+#menu ul li
+{
+    float:left;
+    list-style:none;
+    line-height:40px;
+    text-align:center;
+    padding:0 20px;
+}
+#menu ul li a
+{
+    font-size:15px;
+    color:white;
+    text-decoration:none;
+    height:40px;
+    display:block;
+    float:left;
+    padding:0 20px;
+}
+#menu ul li a:hover
+{
+    color:black;
+    text-decoration:none;
+    background:red;
+}
+#menu_id
+{
+    float:right;
+    height:40px;
+    margin-top:15px;
+    text-align:center;
+    padding:0 5px;
+}
+#menu_id a
+{
+    font-size:12px;
+    color:Yellow;
+    text-decoration:none;
+    height:30px;
+    display:block;
+    float:left;
+    padding:0 5px;
+}
+#menu_id span
+{
+    height:30px;
+   float:left;
+   pading:0 20px;
+}
+#register 
+{
+    width:500px;
+    margin:0 auto;
+    margin-top:50px;
+    height:600px;
+}
+#register h1
+{
+    font-size:20px;
+    margin:0 auto;
+    text-align:center;
+}
+#login
+{
+    width:400px;
+    margin:0 auto;
+    margin-top:40px;
+    height:300px;
+}
+#login_a
+{
+    width:400px;
+    margin:0 auto;
+    height:40px;
+   background-color:Silver;
+}
+#login_main
+{
+    width:400px;
+    margin:0 auto;
+    height:200px;
+}
+#login_main p
+{
+    padding:20px 0;
+    margin:0 auto;
+    width:400px;
+    margin-left:50px;
+}
+#login_bottom
+{
+    width:400px;
+    margin:0 auto;
+    height:60px;
+}
+#login_bottom p
+{
+    float:right;
+    line-height:50px;
+}
+#book_main
+{
+    width:800px;
+    margin:0 auto;
+
+}
+#search
+{
+    width:800px;
+    margin:0 auto;
+    height:80px;
+
+}
+#show_main
+{
+    margin-top:60px;
+    width:1000px;
+}
+#show
+{
+    float:left;
+    height:800px;
+    width:190px;
+}
+#leftshow
+{
+    width:500px;
+    height:800px;
+    float:left;
+}
+#show_book
+{
+     margin-top:100px;
+    width:1050px;
+    margin:0 auto;
+}
+#showbookleft
+{
+    float:left;
+    height:500px;
+    width:190px;
+}
+#showbookright
+{
+    width:500px;
+    height:700px;
+    margin-left:20px;
+    float:left;
+}
+#lleft
+{
+    margin-top:20px;
+    width:700px;
+    height:350px;
+    margin-left:20px;
+    float:left;
+    border-style:dashed;
+    border:2px;
+}
+#lright
+{
+    margin-top:20px;
+    float:left;
+    height:450px;
+    width:100px;
+    margin-left:30px;
+    border:1px;
+}
+#demo {
+background: #FFF;
+overflow:hidden;
+border: 1px dashed #CCC;
+width: 500px;
+}
+#demo img {
+border: 3px solid #F2F2F2;
+}
+#indemo {
+float: left;
+width: 800%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}
+#manage_main
+{
+    margin-top:60px;
+    width:1050px;
+    margin:0 auto;
+}
+#manage_showleft
+{
+    float:left;
+    height:500px;
+    width:190px;
+    background-color:Orange;
+ }
+#manage_showright
+{
+    width:800px;
+    height:700px;
+    margin-left:20px;
+    float:left;
+}
